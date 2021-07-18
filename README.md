@@ -1,10 +1,12 @@
 About the Stock Tracker Web App:
-This a back-end project using react.js and a 3rd Party Api Key taken from https://iexcloud.io/
-The graphical representation was done using chart.js ( use npm install --save react-chartjs-2 chart.js)
+This a back-end project using react.js and a 3rd Party Api Key taken from https://iexcloud.io/ .
+The graphical representation was done using chart.js ( use npm install --save react-chartjs-2 chart.js).
+
 
 Description :
 This app displays the latest closing price of a given stock and keeps updating the price every 1 minute.
-Along with this, it also shows a live graph of that stock
+Along with this, it also shows a live graph of that stock.
+All the code files are present in the src folder.
 
 
 
